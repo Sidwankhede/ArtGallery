@@ -1,0 +1,35 @@
+.max-width-1{
+    max-width: 100%;
+}
+.max-width-2{
+    max-width: 80%;
+}
+.max-width-3{
+    max-width: 70%;
+}
+.m-auto{
+    margin: auto;
+}
+.container{
+    height: inherit;
+    width: 100%;
+    display: flex;
+    align-items: center;
+   
+}
+.center{
+    text-align: center;
+}
+video{
+   position: absolute;
+   z-index: -1;
+}
+.primary{
+   text-align: center;
+   height: inherit;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+}
